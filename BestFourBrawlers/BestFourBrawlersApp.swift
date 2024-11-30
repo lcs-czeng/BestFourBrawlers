@@ -11,7 +11,7 @@ import SwiftUI
 struct BestFourBrawlersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BrawlerListView()
         }
     }
 }
